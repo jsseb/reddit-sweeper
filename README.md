@@ -28,10 +28,9 @@ which means you can modify it, redistribute it or use it however you like.
     reddit-sweeper [OPTIONS] SUBREDDIT [SUBREDDIT...]
     
 # OPTIONS
-    -h, --help                       Print this help text and exit
-    --version                        Print program version and exit
-    -i, --ignore-errors              Continue on download errors, for example to
-                                     skip unavailable videos in a playlist
+    -h, --help                       Print this help text and exit.
+    --version                        Print program version and exit.
+    -i, --ignore-errors              Continue on download errors, skipping non available files.
 
 # FAQ
 
